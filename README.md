@@ -1,4 +1,4 @@
-# 🔍 Bias Detection Model (RoBERTa & BERT) + Gradio Demo
+# Bias Detection Model (RoBERTa & BERT) + Gradio Demo
 
 This repository contains a fine-tuned **RoBERTa and BERT model** built to detect **biased vs non-biased text**. The project includes:
 
@@ -10,7 +10,7 @@ This repository contains a fine-tuned **RoBERTa and BERT model** built to detect
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project is to create a system that detects **demographic bias** in text.  
 The final product is a simple, user-friendly interface where users can enter any text and receive a prediction:
